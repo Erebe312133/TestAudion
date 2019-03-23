@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "csvtojson": "^2.0.8",
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
